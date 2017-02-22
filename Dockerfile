@@ -26,4 +26,5 @@ RUN apt-get update && \
     vim \
     wget \
     unzip \
-    curl
+    curl \
+    xz-utils
